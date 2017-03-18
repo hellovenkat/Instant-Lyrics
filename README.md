@@ -1,3 +1,4 @@
+added some text
 # Instant-Lyrics
 
 Instantly fetches the lyrics of the currently playing spotify song, or any song, and displays it on a window.
